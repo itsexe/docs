@@ -7,7 +7,7 @@ OpenStreetGears is a wiki-organization that collects every informations about St
 # Summary
 
 - Files
-  - [res](https://github.com/OpenStreetGears/docs/res.md)
+  - [res](https://github.com/OpenStreetGears/docs/blob/master/articles/res.md)
 - Packet
   - Structure
   - List
