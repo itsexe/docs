@@ -1,6 +1,6 @@
 # Introduction
 
-OpenStreetGears is a wiki-organization that collects every informations about StreetGears (files, packets, reversing, coding...) It was first created by [greatmaes](https://github.com/greatmaes) and now count two more members: 
+OpenStreetGears is a wiki-organization that collects every information about StreetGears (files, packets, reversing, coding...) It was first created by [greatmaes](https://github.com/greatmaes) and now counts two more members: 
 - [geekgame](https://github.com/geekgame)
 - [itsexe](https://github.com/itsexe)
 
