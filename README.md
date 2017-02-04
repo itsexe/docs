@@ -8,6 +8,7 @@ OpenStreetGears is a wiki-organization that collects every information about Str
 
 - Files
   - [res](https://github.com/OpenStreetGears/docs/blob/master/articles/res.md)
+  - [map](https://github.com/OpenStreetGears/docs/blob/master/articles/map.md)
 - Packet
   - Structure
   - List
