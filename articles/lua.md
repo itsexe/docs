@@ -1,6 +1,6 @@
 ### Lua
 Lua is a lightweight multi-paradigm programming language designed primarily for embedded systems and clients. Lua files are stocked and loaded
-from .res files with functions: [luaL_loadbuffer](http://pgl.yoyo.org/luai/i/luaL_loadbuffer), [luaL_loadfile](http://pgl.yoyo.org/luai/i/luaL_loadfile), [lua_call](http://pgl.yoyo.org/luai/i/lua_call), [lua_pcall](http://pgl.yoyo.org/luai/i/lua_pcall). 
+from .res files with functions: [luaL_loadbuffer](http://pgl.yoyo.org/luai/i/luaL_loadbuffer), [luaL_loadfile](http://pgl.yoyo.org/luai/i/luaL_loadfile), [lua_call](http://pgl.yoyo.org/luai/i/lua_call) and [lua_pcall](http://pgl.yoyo.org/luai/i/lua_pcall). 
 
 We can easily find these functions in the StreetGear executable file and load our own lua file. 
 
@@ -29,7 +29,7 @@ Here is how you get and set position of your player
 local pos = GetPlayerPos(selfIdx)
 SetPos(pos.x, pos.y, pos.z + 200) -- This will teleport us high in the sky
 ```
-Here is some functions I made 
+Here is some additional functions I made 
 ```
 function playEffect(actor, fx, animation, time)
     actor:PlayEffect(fx)
