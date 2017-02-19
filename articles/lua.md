@@ -15,7 +15,7 @@ BaseAddress + 0x00599BD4
 ```
 ### Scripting
 
-[StreetGears use its own lua functions, here is a raw dump](https://raw.githubusercontent.com/greatmaes/StreetGearsScriptHook/master/raw/func_dump.md), feel free to contribute to add arguments next to functions.
+[StreetGears use its own lua functions, here is a raw dump](https://raw.githubusercontent.com/OpenStreetGears/docs/master/raw/func_dump.md), feel free to contribute to add arguments next to functions.
 
 Let's start the basics, most of player functions use a player index, here is how you get it for local player
 
