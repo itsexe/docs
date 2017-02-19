@@ -8,8 +8,8 @@ OpenStreetGears is a wiki-organization that collects every information about Str
 
 - Files
   - [res](https://github.com/OpenStreetGears/docs/blob/master/articles/res.md)
-    - bmp
-    - dds
+    - [bmp](https://en.wikipedia.org/wiki/BMP_file_format)
+    - [dds](https://en.wikipedia.org/wiki/DirectDraw_Surface)
     - ffe
     - fx
     - item
@@ -18,12 +18,12 @@ OpenStreetGears is a wiki-organization that collects every information about Str
     - [map](https://github.com/OpenStreetGears/docs/blob/master/articles/map.md)
     - naf
     - npc
-    - nui
+    - [nui](https://github.com/OpenStreetGears/docs/blob/master/articles/ui.md)
     - nus
     - nx3
     - rsg
-    - spr
-    - tga
+    - [spr](https://github.com/OpenStreetGears/docs/blob/master/articles/ui.md)
+    - [tga](https://en.wikipedia.org/wiki/Truevision_TGA)
     - trick
     - ttf
     - txt
