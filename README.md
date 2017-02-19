@@ -8,7 +8,26 @@ OpenStreetGears is a wiki-organization that collects every information about Str
 
 - Files
   - [res](https://github.com/OpenStreetGears/docs/blob/master/articles/res.md)
-  - [map](https://github.com/OpenStreetGears/docs/blob/master/articles/map.md)
+    - bmp
+    - dds
+    - ffe
+    - fx
+    - item
+    - jtv
+    - [lua](https://github.com/OpenStreetGears/docs/blob/master/articles/lua.md)  
+    - [map](https://github.com/OpenStreetGears/docs/blob/master/articles/map.md)
+    - naf
+    - npc
+    - nui
+    - nus
+    - nx3
+    - rsg
+    - spr
+    - tga
+    - trick
+    - ttf
+    - txt
+    - wav
 - Packet
   - Structure
   - List
