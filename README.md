@@ -18,11 +18,11 @@ OpenStreetGears is a wiki-organization that collects every information about Str
     - [map](https://github.com/OpenStreetGears/docs/blob/master/articles/map.md)
     - naf
     - npc
-    - [nui](https://github.com/OpenStreetGears/docs/blob/master/articles/ui.md)
+    - [nui](https://github.com/OpenStreetGears/docs/blob/master/articles/UI.md)
     - nus
     - nx3
     - rsg
-    - [spr](https://github.com/OpenStreetGears/docs/blob/master/articles/ui.md)
+    - [spr](https://github.com/OpenStreetGears/docs/blob/master/articles/UI.md)
     - [tga](https://en.wikipedia.org/wiki/Truevision_TGA)
     - trick
     - ttf
